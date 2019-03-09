@@ -3,7 +3,7 @@
     "id": 0,
     "name": "Stargate",
     "namefilm": "Stargate",
-
+    
     "latlng": {
       "latitude": 53.6937,
       "longitude": -336.1968
@@ -18,7 +18,10 @@
     "year": "2008",
     "latitude": "53.6737",
     "longitude": "-336.1968",
-
+    "latlng": {
+      "latitude": 53.6437,
+      "longitude": -336.1968
+    },
 
     "namefilm": "Stargate: The Ark of Truth",
     "image": "https://github.com/react-native-village/react-native-init/raw/master/stargate/images/Stargate_The_Ark_of_Truth.jpg",
@@ -57,6 +60,10 @@
     "name": "Stargate Atlantis",
     "namefilm": "Stargate Atlantis",
     "year": "2004",
+    "latlng": {
+      "latitude": 53.6537,
+      "longitude": -336.2068
+    },
     "latitude": "53.6437",
     "longitude": "-336.1968",
     "image": "https://github.com/react-native-village/react-native-init/raw/master/stargate/images/Stargate_Atlantis.jpg",
@@ -68,6 +75,10 @@
     "namefilm": "Stargate Origins",
     "latitude": "53.6237",
     "longitude": "-336.1968",
+    "latlng": {
+      "latitude": 53.6437,
+      "longitude": -336.1668
+    },
     "year": "2018",
     "image": "https://github.com/react-native-village/react-native-init/raw/master/stargate/images/Stargate_Origins.jpg",
     "info": "Stargate Origins (abbreviated as SGO) is an American science fiction adventure web series and part of Metro-Goldwyn-Mayers Stargate franchise. The program is based on the 1994 science fiction film Stargate by Dean Devlin and Roland Emmerich and its spin-off Stargate SG-1. It was announced on July 20, 2017 at the 2017 San Diego Comic Con as part of Stargate SG-1s 20th anniversary celebration. The series consists of 10 episodes, each 10 minutes in length, essentially a 10-episode feature length movie, and expands upon the existing mythology of the Stargate franchise. Stargate Origins premiered with 3 episodes on February 14, 2018 on MGM's 'Stargate Command' subscription service. A 104 minutes long ‘Feature Cut‘ titled Stargate Origins: Catherine was released on June 19, 2018 on digital retail outlets around the world in SD, HD, and 4K formats. ‘Feature Cut‘ additions include a fresh sound mix, enhanced visual effects, a new title sequence, and subtitles in 12 different languages."
@@ -76,6 +87,10 @@
     "id": 6,
     "name": "Stargate Infinity",
     "namefilm": "Stargate Infinity",
+    "latlng": {
+      "latitude": 53.6737,
+      "longitude": -336.1568
+    },
     "latitude": "53.6037",
     "longitude": "-336.1968",
     "year": "2002",
