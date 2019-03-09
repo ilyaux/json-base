@@ -4,11 +4,9 @@
     "name": "Stargate",
     "namefilm": "Stargate",
 
-    "marker": {
-      "latlng": {
-        "latitude": 53.6937,
-        "longitude": -336.1968
-      }
+    "latlng": {
+      "latitude": 53.6937,
+      "longitude": -336.1968
     },
     "year": "1994",
     "image": "https://github.com/react-native-village/react-native-init/raw/master/stargate/images/Stargate.jpg",
@@ -21,6 +19,7 @@
     "latitude": "53.6737",
     "longitude": "-336.1968",
 
+
     "namefilm": "Stargate: The Ark of Truth",
     "image": "https://github.com/react-native-village/react-native-init/raw/master/stargate/images/Stargate_The_Ark_of_Truth.jpg",
     "info": "Stargate: The Ark of Truth is a 2008 Canadian-American military science fiction film in the Stargate franchise, acting as a sequel to the television series Stargate SG-1. It is written and directed by Robert C. Cooper, produced by Cooper, John G. Lenic, and the series creator Brad Wright, and stars its regular cast. The film is the conclusion of the Ori arc, and picks up after the SG-1 series finale. However, it happens before the Stargate Atlantis third season finale."
@@ -31,7 +30,10 @@
     "namefilm": "Stargate: Continuum",
     "latitude": "53.7037",
     "longitude": "-336.1968",
-
+    "latlng": {
+      "latitude": 53.6337,
+      "longitude": -336.1568
+    },
     "year": "2008",
     "image": "https://github.com/react-native-village/react-native-init/raw/master/stargate/images/Stargate_Continuum.jpg",
     "info": "Stargate: Continuum is a 2008 Canadian-American military science fiction direct-to-video film in the Stargate franchise. It is the second sequel to television series Stargate SG-1 following The Ark of Truth. It is directed by Martin Wood, director and producer of many episodes of Stargate SG-1 and Stargate Atlantis, written by SG-1 and Atlantis creator Brad Wright, and produced by Wright and Ark of Truth director Robert C. Cooper."
@@ -40,7 +42,10 @@
     "id": 3,
     "name": "Stargate SG-1",
     "namefilm": "Stargate SG-1",
-
+    "latlng": {
+      "latitude": 53.6137,
+      "longitude": -336.2168
+    },
     "latitude": "53.6337",
     "longitude": "-336.1968",
     "year": "1997",
